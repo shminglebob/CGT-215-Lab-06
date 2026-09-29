@@ -1,0 +1,4 @@
+﻿  CGT-215-Lab-06-jian1105.cpp
+C:\Users\jeric\Documents\GitHub\CGT-215-Lab-06\CGT-215-Lab-06-jian1105.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jeric\Documents\GitHub\CGT-215-Lab-06\CGT-215-Lab-06-jian1105.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+  CGT-215-Lab-06.vcxproj -> C:\Users\jeric\Documents\GitHub\CGT-215-Lab-06\x64\Debug\CGT-215-Lab-06.exe
